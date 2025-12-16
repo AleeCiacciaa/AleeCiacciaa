@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Alessia!
 
 🏠 Rimini, Bologna (Italy). <br> 
-🎓 Physics student at the University of Bologna. <br> 
+🎓 Physics graduate from the University of Bologna.   <br> 
+🔭 Astrophysics & Cosmology student at the University of Bologna  <br> 
 🚀 Passionate about physics-medical applications, astrophysics and schoolteaching. <br> 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alessiaciaccia/) | [Email](02alessia02@gmail.com) <br> 
